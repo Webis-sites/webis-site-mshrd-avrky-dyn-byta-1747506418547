@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-17T18:26:58.614Z",
+  "timestamp": "2025-05-17T18:29:22.124Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": null,
+  "deployedUrl": "webis-site-mshrd-avrky-dyn-byta-1747506418547-4asy800y7.vercel.app",
   "error": null
 }
