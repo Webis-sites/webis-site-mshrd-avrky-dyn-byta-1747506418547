@@ -7,6 +7,7 @@ import ServicesSection from '@/components/ServicesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import ContactSection from '@/components/ContactSection';
 import CtaSection from '@/components/CtaSection';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <TestimonialsSection />
         <ContactSection />
         <CtaSection />
+        <Footer />
       </main>
     </>
   );
