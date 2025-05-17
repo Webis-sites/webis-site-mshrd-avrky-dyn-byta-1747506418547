@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-05-17T18:26:58.614Z",
+  "steps": {
+    "planGenerated": false,
+    "componentsGenerated": false,
+    "templatesGenerated": false,
+    "stylesGenerated": false,
+    "pageGenerated": false,
+    "deploymentStarted": false,
+    "deploymentComplete": false
+  },
+  "deployedUrl": null,
+  "error": null
+}
